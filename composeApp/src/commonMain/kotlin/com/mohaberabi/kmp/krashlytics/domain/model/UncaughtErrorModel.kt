@@ -4,7 +4,6 @@ import com.mohaberabi.kmp.krashlytics.platform.DateTime
 
 
 data class UncaughtErrorModel(
-
     val id: String? = null,
     val cause: String? = null,
     val errorMessage: String? = null,
